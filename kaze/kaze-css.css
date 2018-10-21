@@ -1,0 +1,149 @@
+<!--
+
+BODY{
+font-family:'ms ui gothic';
+font-size:8pt;
+font-weight:normal;
+font-style:normal;
+color:#0c062b;
+margin:40 0 40 30;
+background-color:#FFFFFF;
+scrollbar-face-color:#FFFFFF;
+scrollbar-highlight-color:#373373;
+scrollbar-shadow-color:#373373;
+scrollbar-3dlight-color:#FFFFFF;
+scrollbar-arrow-color:#373373;
+scrollbar-track-color:#FFFFFF;
+scrollbar-darkshadow-color:#FFFFFF;
+}
+
+BODY.top{
+font-family:'ms ui gothic';
+font-size:8pt;
+font-weight:normal;
+font-style:normal;
+color:#0c062b;
+background-color:#FFFFFF;
+background-image:url("top/taiki06mt.jpg");
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-position:"center center";
+text-align:left;
+margin:40 0 40 30;
+scrollbar-face-color:#FFFFFF;
+scrollbar-highlight-color:#373373;
+scrollbar-shadow-color:#373373;
+scrollbar-3dlight-color:#FFFFFF;
+scrollbar-arrow-color:#373373;
+scrollbar-track-color:#FFFFFF;
+scrollbar-darkshadow-color:#FFFFFF;
+}
+
+body.menu{
+font-family:'ms ui gothic';
+font-size:8pt;
+font-weight:normal;
+font-style:normal;
+color:#0c062b;
+background-color:#FFFFFF;
+margin:60 5 40 0;
+scrollbar-face-color:#FFFFFF;
+scrollbar-highlight-color:#373373;
+scrollbar-shadow-color:#373373;
+scrollbar-3dlight-color:#FFFFFF;
+scrollbar-arrow-color:#373373;
+scrollbar-track-color:#FFFFFF;
+scrollbar-darkshadow-color:#FFFFFF;
+}
+
+tr.menu{
+font-family:'ms ui gothic';
+font-size:8pt;
+font-weight:normal;
+font-style:normal;
+color:#0c062b;
+line-height:150%;
+}
+
+
+table{
+empty-cells: show;
+border-collapse: collapse; 
+}
+
+td.top{
+border-color:#373373;
+border-style:solid;
+border-width:1px 1px 1px 1px;
+}
+
+td.naka{
+border-color:#373373;
+border-style:solid;
+border-width:0px 1px 0px 1px;
+}
+
+td.all{
+border-color=#373373;
+border-style=solid;
+border-width=1px 1px 1px 1px;
+}
+
+td.down{
+border-color:#373373;
+border-style:solid;
+border-width:0px 1px 1px 1px;
+}
+
+tr{
+font-family:'ms ui gothic';
+font-size:8pt;
+font-weight:normal;
+font-style:normal;
+color:#0c062b;
+line-height:150%;
+}
+
+
+A{text-decoration:none;}
+A:link{color:#0c062b;}
+A:visited{color:#0c062b;}
+A:active{color:#FFFFFF;}
+A:hover{color:#0c062b;
+        text-decoration:line-through;}
+
+
+
+
+
+span.bold{font-weight:bold}
+
+span.right{text-align:right}
+
+input.nor,textarea,select{
+font-family :'ms ui gothic';
+font-size :8pt;
+color:#0c062b;
+background-color:#FFFFFF;
+border :1 solid #373373;
+}
+
+input.spe{
+font-family :'ms ui gothic';
+font-size :8pt;
+background-color:#FFFFFF;
+color:#0c062b;
+border :1 solid #373373;
+}
+
+
+Hr{
+color:#0c062b;
+hr-size:1;
+}
+
+Div{
+align:right;
+
+
+-->
